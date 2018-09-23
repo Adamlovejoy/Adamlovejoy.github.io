@@ -1,0 +1,19 @@
+body { background: lightyellow;
+       color: darkgray;
+       font-size: 14pt; }
+
+h1 { background: green;
+       color: darkgray;
+       font-size: 18pt; }
+
+h2 { background: gold;
+       color: darkgray;
+       font-size: 14pt; }
+
+p { background: lightyellow;
+       color: green;
+       font-size: 12pt; }
+
+li { background: lightyellow;
+       color: blue;
+       font-size: 12pt; }
